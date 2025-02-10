@@ -28,7 +28,7 @@
       "entities/*": ["src/entities/*"],
       "features/*": ["src/features/*"],
       "widgets/*": ["src/widgets/*"],
-      "pages/*": ["src/pages/*"],
+      "pages/*": ["src/routes/*"],
       "processes/*": ["src/processes/*"],
       "app/*": ["src/app/*"]
     }
